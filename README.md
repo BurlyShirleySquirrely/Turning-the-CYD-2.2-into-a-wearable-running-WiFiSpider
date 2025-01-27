@@ -72,5 +72,13 @@ Open to PRs for:
 - SD Card Support
 - Better UI/UX
 
+## 👥 Authors & Contributors
+**Evil Portal Code**  
+- [Atomic by Axion Security](https://github.com/Axion-Security)  
+  *Core Logic for Evil Portal*
+
+**Special Thanks**  
+- [Zynth9999](https://github.com/Zynth9999): Recommend me the UI library.
+
 ## 📜 License
 GNU GPLv3 - See [LICENSE](LICENSE) for details
