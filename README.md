@@ -1,11 +1,11 @@
-# WiFiSpider 🕷️🕸️
-**A stealthy captive portal framework for ESP32-2432S022 (2.2" CYD display)**  
-*Harvest credentials through deceptive WiFi portals - For educational/pen-testing purposes only*
+# WiFiSpider 🕷️🕸️                                                                BURLEYSHIRLEYSQUIRRELY- THROUGH A COMBINATION OF 3D PRINTING, HARDWARE REDESIGN, APPROPIATING MATERIAL F
+**A stealthy captive portal framework for ESP32-2432S022 (2.2" CYD display)**                             OTHER PROJECTS, AND HOPEFULLY A UI UPGRADE IF NOT BY ME THEN SOMEONE TO TURN THE
+*Harvest credentials through deceptive WiFi portals - For educational/pen-testing purposes only*          QUITE PETITE CYD 2.2 INTO A SEXY, SLEEK WEARABLE RUNNING AN AMMENDED WIFISPIDER.
+                                                                                                          THIS IS MY FIRST TIME FORKING ANYTHING OR TRYING ANYTHING OF THIS SORT SO I 
+![preview](https://github.com/user-attachments/assets/7e0266f6-19cd-4986-a272-ae244302ce69)               REALLY HAVE NO IDEA WHAT IM DOING.******************
 
-![preview](https://github.com/user-attachments/assets/7e0266f6-19cd-4986-a272-ae244302ce69)
-
----
-
+---                                                                                                       FIRST STEP IS UPLOADING CODE FOR A CLOCK FACE. BRUCE FIRMWARE HAS A ROLLING 
+                                                                                                          CLOCK IN THERE CODE I MIGHT TRY TO APPROPIATE.
 ## 🔍 Description
 WiFiSpider is an ESP32-based rogue access point framework designed for security researchers to demonstrate phishing risks in public WiFi networks. Built specifically for the **2.2" CYD ESP32-2432S022** touch display, it combines:
 - Captive portal interception
